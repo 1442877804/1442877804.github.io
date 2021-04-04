@@ -1,2 +1,2 @@
 # 1442877804.github.io
-[Baidu](www.baidu.com)
+[百度](https://www.baidu.com)
