@@ -7,3 +7,5 @@
 [人物词频统计——柱状图](https://1442877804.github.io/zhuzhuangtu.html)
 
 [人物词频统计——词云](https://1442877804.github.io/ciyun.html)
+
+[人物词频统计——玫瑰图](https://1442877804.github.io/.html)
