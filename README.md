@@ -21,4 +21,5 @@
 ### 数据统计了到2021年3月29日新冠肺炎累计感染总人数在全世界的分布图（数据来源于WHO）
 
 [新冠感染总人数分布图](https://1442877804.github.io/xinguan.html)
-[新冠感染总人数数据表](https://1442877804.github.io/WHO COVID-19 global table dataMarch 29th 2021 at 1.27.20 PM.csv)
+
+[新冠感染总人数数据表](https://1442877804.github.io/data.csv)
