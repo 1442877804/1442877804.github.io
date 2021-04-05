@@ -14,4 +14,4 @@
 
 ### 旅行就要笑着旅行呀（通过地图上各个点的连线，连接成一个笑脸）
 
-[笑脸](https://1442877804.github.io/xiaolian.html)
+[笑脸](https://1442877804.github.io/smile.html)
