@@ -37,4 +37,4 @@
 
 [组合图表](https://1442877804.github.io/zuhe.html)
 
-[组合图表](https://1442877804.github.io/作业2.htm)
+[组合图表](https://1442877804.github.io/作业2.html)
